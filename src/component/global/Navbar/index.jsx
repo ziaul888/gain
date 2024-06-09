@@ -36,11 +36,11 @@ const Navbar = () => {
 				<div className="flex justify-between items-center md:w-full md:max-w-[260px]">
 					<Link href="/" className="md:block hidden">
 						<Image
-							src="/logo.png"
+							src="/next.svg"
 							alt="logo"
 							className="object-contain"
 							width={116}
-							height={43}
+							height={30}
 						/>
 					</Link>
 				</div>
